@@ -4,6 +4,7 @@ description: Use this skill when working with Conductor's context-driven develop
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: content
 ---
 
 # Context-Driven Development

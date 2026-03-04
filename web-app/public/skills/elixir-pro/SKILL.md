@@ -4,6 +4,7 @@ description: Write idiomatic Elixir code with OTP patterns, supervision trees, a
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: cloud
 ---
 
 ## Use this skill when

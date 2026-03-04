@@ -1,9 +1,10 @@
 ---
 name: box-automation
-description: "Automate Box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via Rube MCP (Composio). Always search tools first for..."
+description: Automate Box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via Rube MCP (Composio). Always search tools first for...
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: cloud
 ---
 
 # Box Automation via Rube MCP

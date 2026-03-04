@@ -1,9 +1,10 @@
 ---
 name: kpi-dashboard-design
-description: "Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboards, selecting metrics, or designing data ..."
+description: Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboards, selecting metrics, or designing data ...
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: data-science
 ---
 
 # KPI Dashboard Design

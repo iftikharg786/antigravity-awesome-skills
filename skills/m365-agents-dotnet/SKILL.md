@@ -4,6 +4,7 @@ description: Microsoft 365 Agents SDK for .NET. Build multichannel agents for Te
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Microsoft 365 Agents SDK (.NET)

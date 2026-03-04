@@ -4,6 +4,7 @@ description: Analyzes keyword usage in provided content, calculates density, sug
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: content
 ---
 
 ## Use this skill when

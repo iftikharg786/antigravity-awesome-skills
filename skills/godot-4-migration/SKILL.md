@@ -1,9 +1,10 @@
 ---
 name: godot-4-migration
-description: "Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports."
+description: Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: database
 ---
 
 # Godot 4 Migration Guide

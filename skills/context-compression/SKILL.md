@@ -1,9 +1,10 @@
 ---
 name: context-compression
-description: "Design and evaluate compression strategies for long-running sessions"
+description: Design and evaluate compression strategies for long-running sessions
 risk: safe
-source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression"
-date_added: "2026-02-27"
+source: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression
+date_added: '2026-02-27'
+category: backend
 ---
 # Context Compression Strategies
 

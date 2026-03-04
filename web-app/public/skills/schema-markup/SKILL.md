@@ -4,6 +4,7 @@ description: Design, validate, and optimize schema.org structured data for eligi
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: content
 ---
 
 ---

@@ -4,6 +4,7 @@ description: Master TypeScript with advanced types, generics, and strict type sa
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 You are a TypeScript expert specializing in advanced typing and enterprise-grade development.
 

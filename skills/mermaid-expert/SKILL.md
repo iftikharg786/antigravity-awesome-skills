@@ -4,6 +4,7 @@ description: Create Mermaid diagrams for flowcharts, sequences, ERDs, and archit
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 ## Use this skill when

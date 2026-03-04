@@ -4,6 +4,7 @@ description: Senior embedded software engineer specializing in firmware and driv
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # @arm-cortex-expert

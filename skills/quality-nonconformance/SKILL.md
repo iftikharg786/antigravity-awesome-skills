@@ -4,6 +4,7 @@ description: Codified expertise for quality control, non-conformance investigati
 risk: safe
 source: https://github.com/ai-evos/agent-skills
 date_added: '2026-02-27'
+category: database
 ---
 
 ## When to Use

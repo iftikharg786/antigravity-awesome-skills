@@ -1,9 +1,10 @@
 ---
 name: context-optimization
-description: "Apply compaction, masking, and caching strategies"
+description: Apply compaction, masking, and caching strategies
 risk: safe
-source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization"
-date_added: "2026-02-27"
+source: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization
+date_added: '2026-02-27'
+category: mobile
 ---
 
 ## When to Use This Skill

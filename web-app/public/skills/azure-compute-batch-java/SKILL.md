@@ -4,6 +4,7 @@ description: Azure Batch SDK for Java. Run large-scale parallel and HPC batch jo
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Batch SDK for Java

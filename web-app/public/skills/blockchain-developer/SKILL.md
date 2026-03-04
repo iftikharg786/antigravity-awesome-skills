@@ -4,6 +4,7 @@ description: Build production-ready Web3 applications, smart contracts, and dece
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 ## Use this skill when

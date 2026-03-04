@@ -4,6 +4,7 @@ description: Codified expertise for customs documentation, tariff classification
 risk: safe
 source: https://github.com/ai-evos/agent-skills
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 ## When to Use

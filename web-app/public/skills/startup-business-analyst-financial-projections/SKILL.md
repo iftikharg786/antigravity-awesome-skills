@@ -8,6 +8,7 @@ description: 'Create detailed 3-5 year financial model with revenue, costs, cash
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Financial Projections

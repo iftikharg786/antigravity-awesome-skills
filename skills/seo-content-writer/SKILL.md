@@ -4,6 +4,7 @@ description: Writes SEO-optimized content based on provided keywords and topic b
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: content
 ---
 
 ## Use this skill when

@@ -4,6 +4,7 @@ description: Apple Human Interface Guidelines interaction and UX patterns.
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: mobile
 ---
 
 # Apple HIG: Interaction Patterns

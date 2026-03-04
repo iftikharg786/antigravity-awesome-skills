@@ -4,6 +4,7 @@ description: Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure.AI.Agents.Persistent (.NET)

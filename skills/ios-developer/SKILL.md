@@ -4,6 +4,7 @@ description: Develop native iOS applications with Swift/SwiftUI. Masters iOS 18,
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: mobile
 ---
 
 ## Use this skill when

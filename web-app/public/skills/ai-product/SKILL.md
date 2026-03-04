@@ -4,6 +4,7 @@ description: Every product will be AI-powered. The question is whether you'll bu
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # AI Product Development

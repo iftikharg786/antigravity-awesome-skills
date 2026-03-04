@@ -4,6 +4,7 @@ description: Expert .NET backend architect specializing in C#, ASP.NET Core, Ent
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 ## Use this skill when

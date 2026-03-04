@@ -4,6 +4,7 @@ description: Analyze and optimize individual pages for conversion performance.
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: database
 ---
 # Page Conversion Rate Optimization (CRO)
 You are an expert in **page-level conversion optimization**.

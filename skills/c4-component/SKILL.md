@@ -4,6 +4,7 @@ description: Expert C4 Component-level documentation specialist. Synthesizes C4 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # C4 Component Level: [Component Name]

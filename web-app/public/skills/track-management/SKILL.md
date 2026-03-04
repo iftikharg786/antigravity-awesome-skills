@@ -4,6 +4,7 @@ description: Use this skill when creating, managing, or working with Conductor t
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: mobile
 ---
 
 # Track Management

@@ -4,6 +4,7 @@ description: Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: cloud
 ---
 
 # Azure Tables SDK for Python

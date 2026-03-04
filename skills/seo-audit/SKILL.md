@@ -4,6 +4,7 @@ description: Diagnose and audit SEO issues affecting crawlability, indexation, r
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # SEO Audit

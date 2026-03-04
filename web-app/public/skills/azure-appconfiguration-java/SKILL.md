@@ -4,6 +4,7 @@ description: Azure App Configuration SDK for Java. Centralized application confi
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure App Configuration SDK for Java

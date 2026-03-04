@@ -1,6 +1,7 @@
 ---
 name: apify-brand-reputation-monitoring
-description: "Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok. Use when user asks to monitor brand reputation, analyze..."
+description: Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok. Use when user asks to monitor brand reputation, analyze...
+category: devops
 ---
 
 # Brand Reputation Monitoring

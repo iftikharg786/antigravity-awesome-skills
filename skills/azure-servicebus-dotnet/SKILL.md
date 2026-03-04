@@ -4,6 +4,7 @@ description: Azure Service Bus SDK for .NET. Enterprise messaging with queues, t
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure.Messaging.ServiceBus (.NET)

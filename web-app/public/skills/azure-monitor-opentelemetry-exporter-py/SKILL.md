@@ -4,6 +4,7 @@ description: Azure Monitor OpenTelemetry Exporter for Python. Use for low-level 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Monitor OpenTelemetry Exporter for Python

@@ -1,9 +1,10 @@
 ---
 name: firecrawl-scraper
-description: "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API"
+description: Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: web-development
 ---
 
 # firecrawl-scraper

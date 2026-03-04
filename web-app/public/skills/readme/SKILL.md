@@ -1,9 +1,10 @@
 ---
 name: readme
-description: "When the user wants to create or update a README.md file for a project. Also use when the user says 'write readme,' 'create readme,' 'document this project,' 'project documentation,' or asks for he..."
+description: When the user wants to create or update a README.md file for a project. Also use when the user says 'write readme,' 'create readme,' 'document this project,' 'project documentation,' or asks for he...
 risk: safe
-source: "https://github.com/Shpigford/skills/tree/main/readme"
-date_added: "2026-02-27"
+source: https://github.com/Shpigford/skills/tree/main/readme
+date_added: '2026-02-27'
+category: content
 ---
 
 # README Generator

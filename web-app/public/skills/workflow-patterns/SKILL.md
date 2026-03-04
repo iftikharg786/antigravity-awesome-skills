@@ -4,6 +4,7 @@ description: Use this skill when implementing tasks according to Conductor's TDD
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: devops
 ---
 
 # Workflow Patterns

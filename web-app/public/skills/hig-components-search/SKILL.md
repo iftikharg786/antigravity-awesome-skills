@@ -4,6 +4,7 @@ description: Apple HIG guidance for navigation-related components including sear
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # Apple HIG: Navigation Components

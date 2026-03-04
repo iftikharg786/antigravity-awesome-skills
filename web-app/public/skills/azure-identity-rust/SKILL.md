@@ -4,6 +4,7 @@ description: Azure Identity SDK for Rust authentication. Use for DeveloperToolsC
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Identity SDK for Rust

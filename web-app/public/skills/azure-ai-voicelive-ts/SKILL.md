@@ -4,6 +4,7 @@ description: Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # @azure/ai-voicelive (JavaScript/TypeScript)

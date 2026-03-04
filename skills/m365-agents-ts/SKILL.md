@@ -4,6 +4,7 @@ description: Microsoft 365 Agents SDK for TypeScript/Node.js.
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # Microsoft 365 Agents SDK (TypeScript)

@@ -5,6 +5,7 @@ risk: safe
 source: community
 tags: null
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Crypto BD Agent — Autonomous Business Development for Exchanges

@@ -4,6 +4,7 @@ description: Azure AI Projects SDK for .NET. High-level client for Azure AI Foun
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: devops
 ---
 
 # Azure.AI.Projects (.NET)

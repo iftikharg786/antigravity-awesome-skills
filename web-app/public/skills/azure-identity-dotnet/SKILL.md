@@ -4,6 +4,7 @@ description: Azure Identity SDK for .NET. Authentication library for Azure SDK c
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure.Identity (.NET)

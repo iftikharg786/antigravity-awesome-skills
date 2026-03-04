@@ -10,6 +10,7 @@ description: 'Draft cold emails, follow-ups, and proposal templates. Creates
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 ## Use this skill when

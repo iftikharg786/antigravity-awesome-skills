@@ -4,6 +4,7 @@ description: Master modern GraphQL with federation, performance optimization, an
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: database
 ---
 
 ## Use this skill when

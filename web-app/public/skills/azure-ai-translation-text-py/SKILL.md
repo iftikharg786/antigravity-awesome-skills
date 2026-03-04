@@ -4,6 +4,7 @@ description: Azure AI Text Translation SDK for real-time text translation, trans
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Azure AI Text Translation SDK for Python

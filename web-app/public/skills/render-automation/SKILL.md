@@ -1,9 +1,10 @@
 ---
 name: render-automation
-description: "Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas."
+description: 'Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas.'
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: automation
 ---
 
 # Render Automation via Rube MCP

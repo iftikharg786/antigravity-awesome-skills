@@ -4,6 +4,7 @@ description: 'Apple HIG guidance for input methods and interaction patterns: ges
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: game-development
 ---
 
 # Apple HIG: Inputs

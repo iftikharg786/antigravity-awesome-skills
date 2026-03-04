@@ -4,6 +4,7 @@ description: 'Apple HIG guidance for Apple technology integrations: Siri, Apple 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Apple HIG: Technologies

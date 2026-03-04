@@ -4,6 +4,7 @@ description: Azure Application Insights SDK for .NET. Application performance mo
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: devops
 ---
 
 # Azure.ResourceManager.ApplicationInsights (.NET)

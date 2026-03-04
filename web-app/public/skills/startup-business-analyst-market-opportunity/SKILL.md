@@ -8,6 +8,7 @@ description: 'Generate comprehensive market opportunity analysis with TAM/SAM/SO
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: game-development
 ---
 
 # Market Opportunity Analysis

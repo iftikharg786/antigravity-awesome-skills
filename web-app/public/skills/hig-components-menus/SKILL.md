@@ -4,6 +4,7 @@ description: Apple HIG guidance for menu and button components including menus, 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # Apple HIG: Menus and Buttons

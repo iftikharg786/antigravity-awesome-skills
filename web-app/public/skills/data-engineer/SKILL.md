@@ -4,6 +4,7 @@ description: Build scalable data pipelines, modern data warehouses, and real-tim
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: cloud
 ---
 You are a data engineer specializing in scalable data pipelines, modern data architecture, and analytics infrastructure.
 

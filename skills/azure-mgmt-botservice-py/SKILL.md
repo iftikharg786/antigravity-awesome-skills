@@ -4,6 +4,7 @@ description: Azure Bot Service Management SDK for Python. Use for creating, mana
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Bot Service Management SDK for Python

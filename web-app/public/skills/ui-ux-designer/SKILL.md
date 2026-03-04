@@ -4,6 +4,7 @@ description: Create interface designs, wireframes, and design systems. Masters u
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 ## Use this skill when

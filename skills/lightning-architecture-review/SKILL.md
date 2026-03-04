@@ -4,6 +4,7 @@ description: Review Bitcoin Lightning Network protocol designs, compare channel 
 risk: unknown
 source: community
 date_added: '2026-03-03'
+category: backend
 ---
 
 ## Use this skill when

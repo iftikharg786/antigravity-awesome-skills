@@ -4,6 +4,7 @@ description: Apple HIG guidance for presentation components including alerts, ac
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # Apple HIG: Presentation Components

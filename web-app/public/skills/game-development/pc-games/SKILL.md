@@ -1,9 +1,10 @@
 ---
 name: pc-games
-description: "PC and console game development principles. Engine selection, platform features, optimization strategies."
+description: PC and console game development principles. Engine selection, platform features, optimization strategies.
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: game-development
 ---
 
 # PC/Console Game Development

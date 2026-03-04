@@ -4,6 +4,7 @@ description: Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Cosmos DB SDK for Python

@@ -4,6 +4,7 @@ description: Master Python 3.12+ with modern features, async programming, perfor
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.
 

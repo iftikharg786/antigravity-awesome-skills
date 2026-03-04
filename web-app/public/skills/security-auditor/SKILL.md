@@ -4,6 +4,7 @@ description: Expert security auditor specializing in DevSecOps, comprehensive cy
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: security
 ---
 You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.
 

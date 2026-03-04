@@ -4,6 +4,7 @@ description: Expert network engineer specializing in modern cloud networking, se
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: cloud
 ---
 
 ## Use this skill when

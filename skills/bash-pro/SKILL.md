@@ -10,6 +10,7 @@ description: 'Master of defensive Bash scripting for production automation, CI/C
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: automation
 ---
 ## Use this skill when
 

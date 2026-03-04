@@ -1,9 +1,10 @@
 ---
 name: obsidian-clipper-template-creator
-description: "Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content."
+description: Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content.
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: web-development
 ---
 
 # Obsidian Web Clipper Template Creator

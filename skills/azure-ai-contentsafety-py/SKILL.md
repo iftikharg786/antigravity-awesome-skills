@@ -4,6 +4,7 @@ description: Azure AI Content Safety SDK for Python. Use for detecting harmful c
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Azure AI Content Safety SDK for Python

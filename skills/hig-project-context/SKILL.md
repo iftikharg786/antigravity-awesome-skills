@@ -4,6 +4,7 @@ description: Create or update a shared Apple design context document that other 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Apple HIG: Project Context

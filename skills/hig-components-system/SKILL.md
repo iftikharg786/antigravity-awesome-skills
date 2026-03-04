@@ -4,6 +4,7 @@ description: 'Apple HIG guidance for system experience components: widgets, live
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: mobile
 ---
 
 # Apple HIG: System Experiences

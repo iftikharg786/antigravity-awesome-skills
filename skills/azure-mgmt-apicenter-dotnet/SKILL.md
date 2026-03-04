@@ -4,6 +4,7 @@ description: Azure API Center SDK for .NET. Centralized API inventory management
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure.ResourceManager.ApiCenter (.NET)

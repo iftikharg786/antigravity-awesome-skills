@@ -4,6 +4,7 @@ description: Azure Event Grid SDK for .NET. Client library for publishing and co
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure.Messaging.EventGrid (.NET)

@@ -4,6 +4,7 @@ description: Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 
 # @azure/cosmos (TypeScript/JavaScript)

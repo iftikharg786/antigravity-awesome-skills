@@ -4,6 +4,7 @@ description: Build React components, implement responsive layouts, and handle cl
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: web-development
 ---
 You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.
 

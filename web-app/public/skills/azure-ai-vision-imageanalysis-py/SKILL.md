@@ -4,6 +4,7 @@ description: Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: ai-ml
 ---
 
 # Azure AI Vision Image Analysis SDK for Python

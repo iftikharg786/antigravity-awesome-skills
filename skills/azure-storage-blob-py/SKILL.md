@@ -4,6 +4,7 @@ description: Azure Blob Storage SDK for Python. Use for uploading, downloading, 
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: cloud
 ---
 
 # Azure Blob Storage SDK for Python

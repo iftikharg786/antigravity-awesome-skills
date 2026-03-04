@@ -4,6 +4,7 @@ description: Optimize any form that is NOT signup or account registration — in
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: database
 ---
 
 # Form Conversion Rate Optimization (Form CRO)

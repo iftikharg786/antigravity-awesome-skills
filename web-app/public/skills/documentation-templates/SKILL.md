@@ -1,9 +1,10 @@
 ---
 name: documentation-templates
-description: "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation."
+description: Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: '2026-02-27'
+category: backend
 ---
 
 # Documentation Templates

@@ -4,6 +4,7 @@ description: This skill should be used when the user asks to \\\"analyze competi
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: mobile
 ---
 
 # Competitive Landscape Analysis

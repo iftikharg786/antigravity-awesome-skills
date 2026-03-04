@@ -4,6 +4,7 @@ description: Master Django 5.x with async views, DRF, Celery, and Django Channel
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: devops
 ---
 
 ## Use this skill when

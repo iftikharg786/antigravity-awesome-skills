@@ -4,6 +4,7 @@ description: Azure Maps SDK for .NET. Location-based services including geocodin
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Maps (.NET)

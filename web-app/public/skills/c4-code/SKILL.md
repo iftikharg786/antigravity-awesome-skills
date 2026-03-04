@@ -4,6 +4,7 @@ description: Expert C4 Code-level documentation specialist. Analyzes code direct
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: content
 ---
 
 # C4 Code Level: [Directory Name]

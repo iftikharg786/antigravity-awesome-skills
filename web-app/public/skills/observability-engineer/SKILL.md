@@ -4,6 +4,7 @@ description: Build production-ready monitoring, logging, and tracing systems. Im
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: devops
 ---
 You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.
 

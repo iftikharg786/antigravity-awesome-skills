@@ -4,6 +4,7 @@ description: Azure Service Bus SDK for Python messaging. Use for queues, topics,
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Service Bus SDK for Python

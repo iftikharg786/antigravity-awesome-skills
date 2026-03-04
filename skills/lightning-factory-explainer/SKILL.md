@@ -4,6 +4,7 @@ description: Explain Bitcoin Lightning channel factories and the SuperScalar pro
 risk: unknown
 source: community
 date_added: '2026-03-03'
+category: ai-ml
 ---
 
 ## Use this skill when

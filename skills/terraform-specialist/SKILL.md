@@ -4,6 +4,7 @@ description: Expert Terraform/OpenTofu specialist mastering advanced IaC automat
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: automation
 ---
 You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.
 

@@ -4,6 +4,7 @@ description: Azure Speech to Text REST API for short audio (Python). Use for sim
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure Speech to Text REST API for Short Audio

@@ -4,6 +4,7 @@ description: Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical f
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: cloud
 ---
 
 # Azure Data Lake Storage Gen2 SDK for Python

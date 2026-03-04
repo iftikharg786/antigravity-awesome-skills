@@ -4,6 +4,7 @@ description: Azure MySQL Flexible Server SDK for .NET. Database management for M
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: backend
 ---
 
 # Azure.ResourceManager.MySql (.NET)

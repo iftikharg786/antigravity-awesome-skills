@@ -4,6 +4,7 @@ description: Azure Container Registry SDK for Python. Use for managing container
 risk: unknown
 source: community
 date_added: '2026-02-27'
+category: devops
 ---
 
 # Azure Container Registry SDK for Python

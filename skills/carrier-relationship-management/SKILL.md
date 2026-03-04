@@ -4,6 +4,7 @@ description: Codified expertise for managing carrier portfolios, negotiating fre
 risk: safe
 source: https://github.com/ai-evos/agent-skills
 date_added: '2026-02-27'
+category: database
 ---
 
 ## When to Use
